@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "<i class="fa fa-usd" aria-hidden="true"></i> Bitconnect"
+    url: /bitconnect
+  - title: "<i class="fa fa-usd" aria-hidden="true"></i> First coin"
+    url: /firstcoin
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
