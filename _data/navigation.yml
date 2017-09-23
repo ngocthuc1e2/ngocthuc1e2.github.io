@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "<i class="fa fa-usd" aria-hidden="true"></i> Bitconnect"
+  - title: <i class="fa fa-usd" aria-hidden="true"></i> Bitconnect
     url: /bitconnect
-  - title: "<i class="fa fa-usd" aria-hidden="true"></i> First coin"
+  - title: <i class="fa fa-usd" aria-hidden="true"></i> First coin
     url: /firstcoin
   # - title: "Sample Posts"
   #   url: /year-archive/
